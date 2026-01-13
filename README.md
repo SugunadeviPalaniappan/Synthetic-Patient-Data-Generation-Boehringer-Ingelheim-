@@ -42,9 +42,9 @@ pip install GANerAid
 
 ```bash
 git clone https://github.com/TeamGenerAid/GANerAid.git
-cd GANerAid                   
+cd GANerAid                                                                                                                                          
 
-## 🛠️ Basic Usage
+## Basic Usage
 
 > Quick example: Generate synthetic tabular data with GANerAid
 
