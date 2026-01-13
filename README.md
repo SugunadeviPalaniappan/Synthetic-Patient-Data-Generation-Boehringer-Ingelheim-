@@ -44,7 +44,9 @@ pip install GANerAid
 git clone https://github.com/TeamGenerAid/GANerAid.git
 cd GANerAid                   
 
-Here’s a short example of using the GANerAid library to generate synthetic data:
+## 🛠️ Basic Usage
+
+> Quick example: Generate synthetic tabular data with GANerAid
 
 ```python
 from GANerAid import GANerAid
