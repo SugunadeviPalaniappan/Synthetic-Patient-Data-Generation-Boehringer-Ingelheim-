@@ -36,8 +36,11 @@ GANerAid uses Generative Adversarial Networks, specifically tailored for tabular
 ## Installation
 
 Install it via pip:
-pip install GANerAid
-git clone https://github.com/TeamGenerAid/GANerAid.git
+
+pip install GANerAid     
+
+git clone https://github.com/TeamGenerAid/GANerAid.git    
+
 cd GANerAid
 
 ## Basic Usage 
