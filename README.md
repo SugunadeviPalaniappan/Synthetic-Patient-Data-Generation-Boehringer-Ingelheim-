@@ -1,7 +1,7 @@
 # GANerAid
 
-**GANerAid** is an open‑source Python library for generating realistic synthetic tabular data using **Generative Adversarial Networks (GANs)**. 
-I am a contributor and part of the GANerAid team, working on improving the library and supporting its application in synthetic data generation workflows.
+**GANerAid** is an open‑source Python library for generating realistic synthetic tabular data using Generative Adversarial Networks (GANs).                 
+I am a contributor and part of the GANerAid team, working on improving the library and supporting its application in synthetic data generation workflows.       
 It is designed to help create high‑quality synthetic patient data that preserves the statistical properties of real clinical datasets while ensuring anonymity and privacy.[GANerAid](https://github.com/TeamGenerAid/GANerAid)
 
 ## 🚀 Overview
