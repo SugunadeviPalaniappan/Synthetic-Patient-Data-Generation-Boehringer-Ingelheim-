@@ -45,7 +45,7 @@ cd GANerAid
 
 ## Basic Usage 
 
-> Quick example: Generate synthetic tabular data with GANerAid
+Quick example: Generate synthetic tabular data with GANerAid
 
 ```python
 from GANerAid import GANerAid
@@ -59,6 +59,7 @@ gan.fit(data, epochs=100)
 # Generate synthetic samples
 synthetic_data = gan.generate(sample_size=1000)
 
-GANerAid works best with tabular datasets containing continuous and binary variables. Categorical variables should be encoded before use.
+GANerAid works best with tabular datasets containing continuous and binary variables.   
+Categorical variables should be encoded before use.
 
 
