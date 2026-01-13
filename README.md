@@ -33,18 +33,14 @@ GANerAid uses Generative Adversarial Networks, specifically tailored for tabular
 - Protecting sensitive medical data while enabling research use.
 - Testing data workflows without needing access to proprietary datasets.
 
-## Installation 
+## Installation
 
 Install it via pip:
-
-```bash
 pip install GANerAid
-
-```bash
 git clone https://github.com/TeamGenerAid/GANerAid.git
-cd GANerAid                                                                                                                                          
+cd GANerAid
 
-## Basic Usage
+## Basic Usage 
 
 > Quick example: Generate synthetic tabular data with GANerAid
 
